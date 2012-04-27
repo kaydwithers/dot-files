@@ -1,14 +1,14 @@
 [user]
-	name = Mark Brown
-	email = markbrown4@gmail.com
+	name = Kayd Withers
+	email = kaydwithers@gmail.com
 [color]
 	diff = auto
 	status = auto
 	branch = auto
 [core]
-	excludesfile = /Users/markbrown4/.gitignore
+	excludesfile = /Users/Kayd/.gitignore
 [github]
-	user = markbrown4
+	user = kaydwithers
 [branch "master"]
   remote = origin
   merge = master

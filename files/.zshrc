@@ -3,7 +3,7 @@ export ZSH=$HOME/.oh-my-zsh
 
 # Set to the name theme to load.
 # Look in ~/.oh-my-zsh/themes/
-export ZSH_THEME="nathanscott"
+export ZSH_THEME="kaydwithers"
 
 # Set to this to use case-sensitive completion
 # export CASE_SENSITIVE="true"
@@ -44,12 +44,9 @@ unsetopt correct_all
 
 # rvm
 
-[[ -s "/Users/nathan/.rvm/scripts/rvm" ]] && source "/Users/nathan/.rvm/scripts/rvm"  # This loads RVM into a shell session.
+[[ -s "/Users/Kayd/.rvm/scripts/rvm" ]] && source "/Users/Kayd/.rvm/scripts/rvm"  # This loads RVM into a shell session.
 
 # editor
 
 export EDITOR='mate -w'
 export PATH=/usr/local/bin:$PATH
-export PATH=$HOME/.rbenv/bin:$PATH
-
-eval "$(rbenv init -)"
